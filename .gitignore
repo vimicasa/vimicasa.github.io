@@ -2,3 +2,4 @@ _site
 Gemfile*
 .sass-cache
 .jekyll-metadata
+publish.sh

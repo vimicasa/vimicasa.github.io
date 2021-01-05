@@ -1,3 +1,5 @@
 main:
-  - title: "Posts"
+  - title: "Cheatsheet"
+    url: https://cheatsheet.vcatalan.com/
+  - title: "Blog"
     url: /
